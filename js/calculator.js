@@ -5,9 +5,6 @@ var last_year = 0;
 const current_year = new Date().getFullYear();
 
 
-function refreshYear(current_year){
-
-}
 ((current_year) => {
   const option = [0, 1];
   const dom_year = document.querySelector('#year');
