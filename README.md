@@ -4,12 +4,13 @@ Se você precisa de uma Calculadora Gestacional para o seu WordPress, seus probl
 
 Para fazer instalação, você sequer precisa saber muito sobre programação, vamos lá:
 
-1 - Baixe o plugin (Clone > Download ZIP)
+1 - Baixe o plugin (Code > Download ZIP)
 
 2 - Instale normalmente
 
 3 - Use o Shortcode: `[gestationalCalculator]`
 
+![Calculator Gestational](https://i.ibb.co/jG8cTxX/Calculadora-Gestacional.png "Calculator Gestational")
 
 Pronto! 
 
